@@ -1,0 +1,8 @@
+Name of QuantLet : SFScola2
+Published in : SFS
+Description: 'Plots the autocorrelation function of daily stock prices for Coca-Cola company from 1 January 2002 to 30 November 2004.'
+Keywords: acf, asset, autocorrelation, data visualization, financial, graphical representation, plot, price, stock-price, time-series, visualization
+See also: SFScola1, SFScola3
+Author: 'Szymon Borak, Wolfgang K. Härdle, Brenda López Cabrera'
+Submitted: Mon, August 03 2015 by quantomas
+Datafile: Coca_cola.txt

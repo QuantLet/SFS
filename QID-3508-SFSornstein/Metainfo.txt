@@ -1,0 +1,7 @@
+Name of QuantLet : SFSornstein 
+Published in: SFS
+Description: 'Produces a graphic visualisation of an Ornstein-Uhlenbeck process with different initial values.'
+Keywords: gaussian, graphical representation, ornstein-uhlenbeck, plot, process, simulation, stochastic, stochastic-process, wiener-process
+Author: 'Szymon Borak, Wolfgang K. Härdle, Brenda López Cabrera'
+Submitted: Mon, August 03 2015 by quantomas
+Example: 'The example is produced for initial values 2 and 0, mu = 1, eta = 1.2 and sigma = 0.3.'

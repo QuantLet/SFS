@@ -1,0 +1,10 @@
+Name of QuantLet : SFSwiener1 
+Published in: SFS
+Description: 'Simulates and plots a standard Wiener process W_t on 1000 equidistant points in interval [0, 1].'
+Keywords: brownian-motion, continuous, graphical representation, plot, process, simulation, standard, stochastic, stochastic-process, time-series, wiener-process
+See also: SFSwiener2, SFSwiener3
+Author: Lasse Groth
+Submitted: Wed, July 29 2015 by quantomas
+Input: 
+- dt : delta t
+Example: 'Plot of a Wiener process W_t for dt=0.001.'

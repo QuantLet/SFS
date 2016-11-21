@@ -1,0 +1,10 @@
+Name of QuantLet : SFSsamplepath
+Published in: SFS
+Description: 'Produces a plot of the sample path for a stochastic process X_t = (-1)^t * X, t = 1, 2,... with a random variable X.'
+Keywords: discrete, graphical representation, plot, process, random, simulation, stochastic, stochastic-process, time-series
+Author: Lasse Groth
+Submitted: Mon, August 03 2015 by quantomas
+Input:
+- t : time horizon
+- x : starting value
+Example: 'The example is produced for x = 0.5836 and t = 11.'

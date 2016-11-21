@@ -1,0 +1,9 @@
+Name of QuantLet : SFSchisq
+Published in: SFS
+Description: 'Plots the probability density function (pdf) of the chi-squared distribution for different degrees of freedom.'
+Keywords: chi-square, density, distribution, graphical representation, pdf, plot, probability
+Author: Awdesch Melzer
+Submitted: Sun, August 02 2015 by quantomas
+Example:
+- 1: 'Chi-squared pdf plot for df=1.'
+- 2: 'Chi-squared pdf plot for df=5.'

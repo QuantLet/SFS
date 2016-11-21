@@ -1,0 +1,6 @@
+Name of QuantLet : SFSstoploss 
+Published in: SFS
+Description: 'Calculates the Black-Scholes call price of a stock and produces a table of the costs of hedging.'
+Keywords: asset, black-scholes, call, cost, delta, european-option, financial, hedging, option, option-price, price, simulation, stock-price, strategy
+Author: Derrick Kanngiesser
+Submitted: Mon, August 03 2015 by quantomas

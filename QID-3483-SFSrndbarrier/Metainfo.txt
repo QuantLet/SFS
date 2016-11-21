@@ -1,0 +1,6 @@
+Name of QuantLet : SFSrndbarrier
+Published in : SFS
+Description: 'Simulates 2 price paths of the barrier option. When the price hits the barrier (lower path), the option expires worthless.'
+Keywords: asset, exotic-option, financial, graphical representation, option, option-price, plot, price, simulation
+Author: 'Szymon Borak, Wolfgang K. Härdle, Brenda López Cabrera'
+Submitted: Wed, July 29 2015 by quantomas

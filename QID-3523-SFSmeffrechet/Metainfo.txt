@@ -1,0 +1,7 @@
+Name of QuantLet : SFSmeffrechet
+Published in: SFS
+Description: 'Plots the theoretical (red) and empirical (blue) mean excess function of the Frechet distribution with alpha = 2.'
+Keywords: Frechet, MEF, distribution, empirical, graphical representation, plot, simulation
+See also: SFSevt2
+Author: Lasse Groth
+Submitted: Wed, August 05 2015 by quantomas

@@ -1,0 +1,14 @@
+Name of QuantLet : SFSbullspreadcall 
+Published in: SFS
+Description: 'Plots the combination of a long call and a short call where the exercise price of the short call is higher than the exercise price of the long call, i.e. bull call spread.'
+Keywords: asset, black-scholes, call, derivative, european-option, financial, option, option-price, plot, price, simulation, stock-price, strategy
+Author: Zografia Anastasiadou
+Submitted: Mon, August 03 2015 by quantomas
+Input:
+- St : stock price
+- K1 : exercise price for long call
+- K2 : exercise price for short call
+- r : interest rate
+- T : time to expiration
+- sigma : volatility
+Example: 'The example is produced for the values: St=92, K1=100, K2=120, T=3, sigma = 0.4, r=0.03.'

@@ -1,0 +1,24 @@
+Name of QuantLet: blackscholes
+
+Published in: 'Statistics of Financial Markets : Exercises and Solutions'
+
+Description: Computes values for call and put options according to Black Scholes.
+
+Keywords: black-scholes, call, financial, option, option-price, put
+
+See also: IBTcrr, IBTimpliedvola, SFSIBTbc, SFSIBTdk
+
+Author: anonumous
+
+Submitted: Wed, February 08 2012 by Dedy Dwi Prastyo
+
+Input: 
+- S : stock price
+- X : exercise price
+- rf : risk-free rate
+- T : time to maturity 
+- sigma : volatility	
+
+Output: 
+- values[1] : call value
+- values[2] : put value

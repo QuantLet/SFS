@@ -1,0 +1,14 @@
+Name of QuantLet : SFSBSCopt1 
+Published in: SFS
+Description: 'Calculates the price of a European call option according to Black Scholes.'
+Keywords: asset, black-scholes, call, european-option, financial, option, option-price, price, simulation, stock-price
+See also: SFSIBTbc, SFSIBTdk, SFSbitreeNDiv, SFSgreeks, SFSgreeks
+Author: Zografia Anastasiadou
+Submitted: Wed, August 05 2015 by quantomas
+Input:
+- K : strike price
+- S : stock price
+- r : interest rate
+- sigma : volatility
+- tau : time to maturity
+Example: 'The example is produced for the values: S=78.05174, K=80, r=0.07, sigma = 0.25 and tau=1.'

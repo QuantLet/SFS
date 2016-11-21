@@ -1,0 +1,23 @@
+Name of QuantLet: SFSbottomstrangle
+
+Published in: 'Statistics of Financial Markets : Exercises and Solutions'
+
+Description: 'Plots the combination of a long call and a long put where the call strike is larger than the put strike, i.e. a strangle strategy.'
+
+Keywords: asset, black-scholes, call, put, derivative, european-option, financial, graphical representation, option, option-price, plot, price, simulation, stock-price, strike
+
+See also: SFSbutterfly, SFSbottomstraddle, SFSpayoffcollar, SFSstrap, SFSstrip, SFSbitreeNDiv
+
+Author: Lasse Groth
+
+Submitted: Tue, December 22 2009 by Lasse Groth
+
+Input:
+- St : Stock price
+- K1 : Exercise price put
+- K2 : Exercise price call
+- T : Time to expiration
+- sigma : Volatility
+- r : Interest rate
+
+Example: 'An example is produced for the values: St=45, K1=40, K2=50, T=1, sigma = 0.4 and r=0.03.'

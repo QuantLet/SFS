@@ -1,0 +1,16 @@
+Name of QuantLet: SFScontourgumbel
+
+Published in: 'Statistics of Financial Markets : Exercises and Solutions'
+
+Description: Produces a contour plot of the Gumbel copula density for theta=2.
+
+Keywords: contour, copula, density, graphical representation, gumbel, joint distribution, plot
+
+See also: SFEVaRHAC, SFEVaRcopulaSIM2ptv, SFEplotCop, SFEstaticCop
+
+Author: Lasse Groth
+
+Submitted: Wed, August 05 2015 by quantomas
+
+Input: 
+- p: theta

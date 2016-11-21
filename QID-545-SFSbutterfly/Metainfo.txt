@@ -1,0 +1,26 @@
+Name of QuantLet: SFSbutterfly
+
+Published in: 'Statistics of Financial Markets : Exercises and Solutions'
+
+Description: 'Plots a butterfly option strategy either produced with call or put options. The combination of two long puts/calls with strike prices of K1 and K3 and two shorted puts/calls with strike price K2=0.5*(K1+K3).'
+
+Keywords: asset, black-scholes, call, put, derivative, european-option, financial, graphical representation, option, option-price, plot, price, simulation, stock-price
+
+See also: SFSbottomstrangle, SFSbottomstraddle, SFSpayoffcollar, SFSstrap, SFSstrip, SFSbitreeNDiv
+
+Author: Lasse Groth
+
+Submitted: Tue, December 22 2009 by Lasse Groth
+
+Input: 
+- St : Stock price
+- K1 : Exercise price put/call 1
+- K3 : Exercise price put/call 3
+- r : Interest rate
+- T : Time to expiration
+- sigma : Volatility
+- flag : 1 for calls, 0 for puts
+
+Example: 
+- 1: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 0.'
+- 2: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 1.'

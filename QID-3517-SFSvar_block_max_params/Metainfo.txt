@@ -1,0 +1,9 @@
+Name of QuantLet : SFSvar_block_max_params 
+Published in: SFS
+Description: 'Provides and plots shape, scale and location parameters estimated for calculating Value-at-Risk (VaR) with Block Maxima Model.'
+Keywords: VaR, block-maxima, data visualization, estimation, forecast, graphical representation, model, parameter, plot, portfolio, scale, time-series
+See also: SFSvar_pot_params, SFSvar_pot_params, SFSvarblockmaxbacktesting, SFSvarpotbacktesting
+Author: Lasse Groth
+Submitted: Mon, August 03 2015 by quantomas
+Datafiles: alpha_bMax_Portf.txt, beta_bMax_Portf.txt, kappa_bMax_Portf.txt
+Example: 'Parameters estimated in Block Maxima Model for portfolio: Bayer, BMW, Siemens. Time period: from 1992-01-01 to 2006-09-01.'

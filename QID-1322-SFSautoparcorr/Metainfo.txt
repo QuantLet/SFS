@@ -1,0 +1,21 @@
+Name of QuantLet: SFSautoparcorr
+
+Published in: 'Statistics of Financial Markets : Exercises and Solutions'
+
+Description: 'Reads data for DAX and FTSE 100 from 1 Jan to 31 Dec 2007, plots the autocorrelation function and the partial autocorrelation function for returns, squared returns and absolute returns for the two indexes. Performs Ljung-Box and ARCH test statistics.'
+
+Keywords: Ljung-Box, PACF, acf, partial, autocorrelation, arch, volatility, index, dax, ftse100, financial, returns, test, statistics, plot, graphical representation, data visualization
+
+See also: SFSarch
+
+Author: Lasse Groth
+
+Submitted: Mon, September 26 2011 by Awdesch Melzer
+
+Datafiles: FTSE_DAX.dat
+
+Output: Ljung-Box and ARCH test statistics.
+
+Example: 
+- 1: 'ACF and PACF plots for DAX plain, squared and absolute returns.'
+- 2: 'ACF and PACF plots for FTSE 100 plain, squared and absolute returns.'
