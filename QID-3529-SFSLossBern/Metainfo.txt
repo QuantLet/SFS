@@ -12,6 +12,8 @@ See also: SFSLossBernPois
 
 Author: Lasse Groth
 
+Author[MatLab]: Szymon Borak
+
 Submitted: Wed, August 05 2015 by quantomas
 
 Example:

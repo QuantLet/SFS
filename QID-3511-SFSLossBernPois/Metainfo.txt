@@ -4,6 +4,7 @@ Description: 'Plots loss distributions in linear and semi-log scale in the simpl
 Keywords: bernoulli, density, distribution, graphical representation, linear, loss-distribution, model, plot, poisson, probability, scale
 See also: SFSLossBern, SFSLossBern
 Author: Lasse Groth
+Author[MatLab]: Szymon Borak
 Submitted: Mon, August 03 2015 by quantomas
 Example: 
 - 1: 'The example is produced for the 100 obligors, Bernoulli parameters (1,9) and Poisson parameters (1.25,0.08), linear scale.'
