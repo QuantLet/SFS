@@ -11,6 +11,8 @@ See also: SFSinterpolMaturity, SFSinterpolStrike, SFSriskreversal, SFSstickycall
 
 Author: Lasse Groth
 
+Author[MatLab]: Szymon Borak
+
 Submitted: Mon, September 26 2011 by Awdesch Melzer
 
 Output: The prices of calendar spread for functions f1, f2 and f3.

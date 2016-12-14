@@ -1,8 +1,9 @@
-Name of QuantLet : SFScola3
+﻿Name of QuantLet : SFScola3
 Published in: SFS
 Description: 'Plots the time series of daily returns and log returns for Coca-Cola company from 1 January 2002 to 30 November 2004.'
 Keywords: asset, data visualization, financial, graphical representation, log-returns, plot, price, returns, stock-price, time-series, visualization
 See also: SFScola1, SFScola2
 Author: 'Szymon Borak, Wolfgang K. Härdle, Brenda López Cabrera'
+Author[MatLab]: Julius Mungo
 Submitted: Mon, August 03 2015 by quantomas
 Datafile: Coca_cola.txt
