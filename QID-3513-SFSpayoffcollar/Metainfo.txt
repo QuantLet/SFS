@@ -4,6 +4,7 @@ Description: 'Draws a payoff graph of a collar option strategy at the expiration
 Keywords: call, european-option, financial, graphical representation, option, option-price, plot, put, simulation, strategy
 See also: SFSstrap
 Author: Lasse Groth
+Author[MatLab]: Vladimir Georgescu, Maria Grith
 Submitted: Mon, August 03 2015 by quantomas
 Input:
 - St : stock price
