@@ -10,6 +10,8 @@ See also: SFScalendarspread, SFSinterpolMaturity, SFSriskreversal, SFSstickycall
 
 Author: Lasse Groth
 
+Author[MatLab]: Szymon Borak
+
 Submitted: Fri, September 30 2011 by Awdesch Melzer
 
 Output: 
