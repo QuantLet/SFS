@@ -1,2 +1,0 @@
-# SFS
-Quantnet: SFS quantlets
