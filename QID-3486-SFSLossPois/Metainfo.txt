@@ -4,6 +4,7 @@ Description: 'Plots the loss distribution in the simplified Poisson model with d
 Keywords: default, distribution, gamma, graphical representation, loss-distribution, plot, poisson, probability
 See also: SFSLossBern
 Author: Lasse Groth
+Author[MatLab]: Szymon Borak
 Submitted: Wed, July 29 2015 by quantomas
 Example: 
 - 1: 'The example is produced for the 100 obligors and Gamma parameters: (2,0.05), (4,0.05), (6,0.05).'

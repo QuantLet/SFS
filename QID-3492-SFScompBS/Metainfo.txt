@@ -3,6 +3,7 @@ Published in: SFS
 Description: 'Calculates and compares the price of a plain vanilla call option with a power call option.'
 Keywords: asset, black-scholes, call, european-option, financial, option, option-price, price, simulation, stock-price
 Author: Derrick Kanngiesser
+Author[MatLab]: Derrick Kanngiesser, Awdesch Melzer
 Submitted: Sun, August 02 2015 by quantomas
 Input:
 - K : strike price

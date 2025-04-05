@@ -3,6 +3,7 @@ Published in: SFS
 Description: 'Calculates the price of a European product call option of Allianz and Munich RE stock prices.'
 Keywords: asset, black-scholes, call, european-option, financial, option, option-price, price, simulation, stock-price
 Author: Zografia Anastasiadou
+Author[MatLab]: Zografia Anastasiadou, Awdesch Melzer
 Submitted: Mon, August 03 2015 by quantomas
 Input:
 - K : strike price

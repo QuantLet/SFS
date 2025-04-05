@@ -3,6 +3,7 @@ Published in: SFS
 Description: Plots the loss distribution of portfolio of two zero coupon bonds with zero recovery.
 Keywords: asset, bond, correlation, distribution, financial, graphical representation, loss-distribution, plot, portfolio, simulation, zero-coupon
 Author: Lasse Groth
+Author[MatLab]: Szymon Borak
 Submitted: Mon, August 03 2015 by quantomas
 Input:
 - PD : probability of default

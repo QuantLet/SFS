@@ -4,5 +4,6 @@ Description: 'Produces a PP and a QQ Plot of the daily log-returns from 1992-01-
 Keywords: asset, data visualization, dax, financial, graphical representation, log-returns, plot, portfolio, pp-plot, qq-plot, returns
 See also: SFSevt2, SFStailGEV, SFSvar_block_max_backtesting, SFSvar_pot_backtesting, SFSvarblockmaxbacktesting, SFSvarpotbacktesting
 Author: Lasse Groth
+Author[MatLab]: Ying Chen
 Submitted: Wed, August 05 2015 by quantomas
 Datafiles: Portf9206_logRet.dat

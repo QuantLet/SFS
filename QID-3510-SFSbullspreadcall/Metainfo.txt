@@ -3,6 +3,7 @@ Published in: SFS
 Description: 'Plots the combination of a long call and a short call where the exercise price of the short call is higher than the exercise price of the long call, i.e. bull call spread.'
 Keywords: asset, black-scholes, call, derivative, european-option, financial, option, option-price, plot, price, simulation, stock-price, strategy
 Author: Zografia Anastasiadou
+Author[MatLab]: Zografia Anastasiadou, Awdesch Melzer
 Submitted: Mon, August 03 2015 by quantomas
 Input:
 - St : stock price

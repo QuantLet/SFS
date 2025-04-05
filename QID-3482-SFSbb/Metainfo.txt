@@ -4,4 +4,5 @@ Description: 'Plots a sample path of Brownian Bridge U_t=W_t-tW_1 in interval [0
 Keywords: brownian-motion, continuous, graphical representation, plot, process, simulation, stochastic, stochastic-process, time-series, wiener-process
 See also: SFEGBMProcess, SFEbsbm, SFEfbmplot
 Author: Zografia Anastasiadou
+Author[MatLab]: Weining Wang
 Submitted: Wed, July 29 2015 by quantomas
