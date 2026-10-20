@@ -18,8 +18,8 @@ Author: Awdesch Melzer
 Submitted: Sun, August 02 2015 by quantomas
 
 Example: 
-- 1: 'Chi-squared pdf plot for df=1.
-- 2: 'Chi-squared pdf plot for df=5.
+- 1: 'Chi-squared pdf plot for df=1.'
+- 2: 'Chi-squared pdf plot for df=5.'
 
 ```
 <div align="center">
