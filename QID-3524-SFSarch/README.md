@@ -22,12 +22,12 @@ Submitted: Wed, August 05 2015 by quantomas
 Datafiles: FTSE_DAX.dat
 
 Output: 
-- 1: 'Plots of the log-likelihood objective functions and of forecasts of the estimated volatility processes.
-- 2: 'Estimated parameters for the return and volatility equations.
+- 1: 'Plots of the log-likelihood objective functions and of forecasts of the estimated volatility processes.'
+- 2: 'Estimated parameters for the return and volatility equations.'
 
 Example: 
-- 1: 'The values of the Log-likelihood function based on the ARCH(6) model for the volatility processes of DAX and FTSE 100 returns.
-- 2: 'Estimated and forecasted volatility processes of DAX and FTSE 100 returns based on an ARCH(6) model. The solid line denotes the unconditional volatility.
+- 1: 'The values of the Log-likelihood function based on the ARCH(6) model for the volatility processes of DAX and FTSE 100 returns.'
+- 2: 'Estimated and forecasted volatility processes of DAX and FTSE 100 returns based on an ARCH(6) model. The solid line denotes the unconditional volatility.'
 
 ```
 <div align="center">
