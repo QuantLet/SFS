@@ -13,7 +13,7 @@ Description: Plots the combination of a long call and a short call where the exe
 
 Keywords: asset, black-scholes, call, derivative, european-option, financial, option, option-price, plot, price, simulation, stock-price, strategy
 
-Author: Zografia Anastasiadou
+Author: Zografia Anastasiadou, WK Härdle
 
 Submitted: Mon, August 03 2015 by quantomas, 20261018 added PY + PNG pic
 
