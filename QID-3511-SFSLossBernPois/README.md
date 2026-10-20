@@ -20,8 +20,8 @@ Author: Lasse Groth
 Submitted: Mon, August 03 2015 by quantomas
 
 Example: 
-- 1: 'The example is produced for the 100 obligors, Bernoulli parameters (1,9) and Poisson parameters (1.25,0.08), linear scale.
-- 2: 'The example is produced for the 100 obligors, Bernoulli parameters (1,9) and Poisson parameters (1.25,0.08), semi-log scale.
+- 1: 'The example is produced for the 100 obligors, Bernoulli parameters (1,9) and Poisson parameters (1.25,0.08), linear scale.'
+- 2: 'The example is produced for the 100 obligors, Bernoulli parameters (1,9) and Poisson parameters (1.25,0.08), semi-log scale.'
 
 ```
 <div align="center">
