@@ -24,8 +24,8 @@ Datafiles: FTSE_DAX.dat
 Output: Ljung-Box and ARCH test statistics.
 
 Example: 
-- 1: 'ACF and PACF plots for DAX plain, squared and absolute returns.
-- 2: 'ACF and PACF plots for FTSE 100 plain, squared and absolute returns.
+- 1: 'ACF and PACF plots for DAX plain, squared and absolute returns.'
+- 2: 'ACF and PACF plots for FTSE 100 plain, squared and absolute returns.'
 
 ```
 <div align="center">
