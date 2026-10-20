@@ -20,8 +20,8 @@ Author: Lasse Groth
 Submitted: Wed, July 29 2015 by quantomas
 
 Example: 
-- 1: 'The example is produced for the 100 obligors and Gamma parameters: (2,0.05), (4,0.05), (6,0.05).
-- 2: 'The example is produced for the 100 obligors and Gamma parameters: (3,0.0333), (2,0.05), (10,0.01).
+- 1: 'The example is produced for the 100 obligors and Gamma parameters: (2,0.05), (4,0.05), (6,0.05).'
+- 2: 'The example is produced for the 100 obligors and Gamma parameters: (3,0.0333), (2,0.05), (10,0.01).'
 
 ```
 <div align="center">
