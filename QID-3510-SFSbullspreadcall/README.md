@@ -13,7 +13,7 @@ Description: Plots the combination of a long call and a short call where the exe
 
 Keywords: asset, black-scholes, call, derivative, european-option, financial, option, option-price, plot, price, simulation, stock-price, strategy
 
-Author: Zografia Anastasiadou, WK Härdle
+Author: Zografia Anastasiadou
 
 Submitted: Mon, August 03 2015 by quantomas, 20261018 added PY + PNG pic
 
@@ -28,11 +28,12 @@ Input:
 Example: The example is produced for the values: St=92, K1=100, K2=120, T=3, sigma = 0.4, r=0.03.
 
 ```
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/SFS/master/QID-3510-SFSbullspreadcall/SFSbullspreadcall-1.png" alt="Image" />
+  <img src="https://raw.githubusercontent.com/QuantLet/SFS/master/QID-3510-SFSbullspreadcall/SFSbullspreadcall-1.png" alt="Image" width="600"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/SFS/master/QID-3510-SFSbullspreadcall/bull_call_spread.png" alt="Image" />
+  <img src="https://raw.githubusercontent.com/QuantLet/SFS/master/QID-3510-SFSbullspreadcall/bull_call_spread.png" alt="Image" width="600"/>
 </div>
 
