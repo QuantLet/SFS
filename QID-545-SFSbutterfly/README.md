@@ -29,8 +29,8 @@ Input:
 - flag : 1 for calls, 0 for puts
 
 Example: 
-- 1: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 0.
-- 2: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 1.
+- 1: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 0.'
+- 2: 'An example is produced for the values: St=10, K1=13, K3=21, T=3, sigma = 0.5, r=0.03, flag = 1.'
 
 ```
 <div align="center">
