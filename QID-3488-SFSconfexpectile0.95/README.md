@@ -20,8 +20,8 @@ Author: Mengmeng Guo
 Submitted: Wed, July 29 2015 by quantomas
 
 Example: 
-- 1: 'Quantile curve (blue) and expectile curve (green) for N(0, 1).
-- 2: 'Theoretical Expectile Curve (black), Estimated Expectile Curve (blue) and 95% Uniform Confidence Bands (red).
+- 1: 'Quantile curve (blue) and expectile curve (green) for N(0, 1).'
+- 2: 'Theoretical Expectile Curve (black), Estimated Expectile Curve (blue) and 95% Uniform Confidence Bands (red).'
 
 ```
 <div align="center">
