@@ -20,9 +20,9 @@ Author: Lasse Groth
 Submitted: Fri, September 30 2011 by Awdesch Melzer
 
 Example: 
-- 1: 'Call prices as a function of strikes for r = 2%, tau = 0.25. The implied volatility functions curves are given as f(K) = 0.000167K^2 - 0.03645K + 2.08 (blue and green curves) and f*(K) = f(KxS0/S1) (red curve). The level of underlying price is S0 = 100 (blue) and S1 = 105 (green, red).
-- 2: 'Relative differences of the call prices for two different stickiness assumptions.
-- 3: 'Implied volatility functions f(K) = 0.000167K2 - 0.03645K + 2.08 and f*(K) = f(KxS0/S1).
+- 1: 'Call prices as a function of strikes for r = 2%, tau = 0.25. The implied volatility functions curves are given as f(K) = 0.000167K^2 - 0.03645K + 2.08 (blue and green curves) and f*(K) = f(KxS0/S1) (red curve). The level of underlying price is S0 = 100 (blue) and S1 = 105 (green, red).'
+- 2: 'Relative differences of the call prices for two different stickiness assumptions.'
+- 3: 'Implied volatility functions f(K) = 0.000167K2 - 0.03645K + 2.08 and f*(K) = f(KxS0/S1).'
 
 ```
 <div align="center">
